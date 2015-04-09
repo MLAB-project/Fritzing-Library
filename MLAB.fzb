@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Custom1.png">
+    <title>MLAB</title>
+    <instances>
+        <instance moduleIdRef="CLKDIV01A_e76987c57644be92a54ed1383ab6a30b_4" modelIndex="85411495" path="/home/roman/.config/Fritzing/parts/user/CLKDIV01A_e76987c57644be92a54ed1383ab6a30b_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="CLKGEN01B_99d46133252c053345408f167b894f08_3" modelIndex="85411592" path="/home/roman/.config/Fritzing/parts/user/CLKGEN01B_99d46133252c053345408f167b894f08_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPS01A_4e1e35041fa329be56d33b640260e435_2" modelIndex="85411764" path="/home/roman/.config/Fritzing/parts/user/GPS01A_4e1e35041fa329be56d33b640260e435_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SDRX01B_336ce04be745fcd5be826760151dd933_12" modelIndex="85411771" path="/home/roman/.config/Fritzing/parts/user/SDRX01B_336ce04be745fcd5be826760151dd933_12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TTLPECL01A_93af0d5135782904c225d9607faaf8d7_19" modelIndex="85411843" path="/home/roman/.config/Fritzing/parts/user/TTLPECL01A_93af0d5135782904c225d9607faaf8d7_19.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="UNIPOWER01A_5V_45a86cb38bafc6dd36c6869215674216_22" modelIndex="85411846" path="/home/roman/.config/Fritzing/parts/user/UNIPOWER01A_5V_45a86cb38bafc6dd36c6869215674216_22.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSantenna_6610dc49994cbab497c28be9c5aa505e_11" modelIndex="85412541" path="/home/roman/.config/Fritzing/parts/user/GPSantenna_6610dc49994cbab497c28be9c5aa505e_11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="USBI2C_204a97a1b92f1462f529cf35e4f5cac4_4" modelIndex="85412554" path="/home/roman/.config/Fritzing/parts/user/USBI2C_204a97a1b92f1462f529cf35e4f5cac4_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PIC16F87xTQ4401B_591817b70f0b0926929a298192239054_22" modelIndex="85441916" path="/home/roman/.config/Fritzing/parts/user/PIC16F87xTQ4401B_591817b70f0b0926929a298192239054_22.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
